@@ -1,0 +1,5 @@
+print("python2023"[::-1])
+print("0203programacao2023"[::-1])
+print("luz azul"[::-1])
+print("arara rara"[::-1])
+print("anotaram a data da maratona"[::-1])
